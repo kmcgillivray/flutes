@@ -1,3 +1,5 @@
+---
+---
 /*
  * Global
  */
@@ -28,7 +30,7 @@ body {
   margin-bottom: 80px;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
-  background: url(/img/keith.jpg) no-repeat center center fixed;
+  background: url({{ site.baseurl }}/img/keith.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
      -moz-background-size: cover;
        -o-background-size: cover;
