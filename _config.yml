@@ -1,6 +1,5 @@
 # Site settings
 title: Keith McGillivray
-baseurl: /flutes
 
 # Build settings
 markdown: kramdown
